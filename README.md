@@ -1,21 +1,22 @@
 <h1 align="center"><b>Hi, I'm Matheus Caetano! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+student;Born+and+raised+in+Brazil!+(come);Former+professional+musician;Single-player+>>>+Multi-player;Average+gym+enjoyer;Addicted+to+learning+in+general+&hearts;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=2/8+Software+Engineering;Come+to+Brazil;Single-player+>>>+Multi-player;Can+play+Wonderwall;Average+gym+enjoyer;Addicted+to+learning+in+general+&hearts;"></a>
 </p>
 
 <br>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-- A passionate self-taught Front-End developer
-- Playing DBD in spare time
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Fullstack software developer
+- Born and raised in Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Brazilian_Flag_-_round.svg" width="20">
+- Former professional musician &sung;
+- Trying to hit the gym as consistetly as possible
+- Playing open world single-player games in spare time
 
 <br>
 
@@ -102,7 +103,7 @@
 
 <br>
 
-## <b> Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Contact</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <br>
 
